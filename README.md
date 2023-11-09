@@ -11,5 +11,6 @@ Here I'm going to jot down some more known errata with this web emulated version
 4. Termshark hotkey doesn't work since browsers reserve Ctrl + t for opening tabs. Invoke it from the shell instead
 5. gdb doesn't work on web or a container you grab. That's my bad I'll create an issue to provision that in -$t@$h
 6. The maps work but are a bit glitchy. In general refresh with the emulator will never be perfect
+7. Wikipedia search doesn't work. Ctrl + w is reserved by browsers.
 
 Please create issues if you find anything to add to this list or have a feature request
